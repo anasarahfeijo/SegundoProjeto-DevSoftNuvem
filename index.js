@@ -23,7 +23,7 @@ app.get("/", function (req, res) {
           padding: 20px;
         }
         .card {
-          background: #ffff00;
+          background: #c5e8ff;
           padding: 30px 40px;
           border-radius: 12px;
           box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
@@ -88,6 +88,7 @@ app.get("/", function (req, res) {
         <h1>Bem-vindo ao meu site! 🚀</h1>
         
         <div class="info-box">
+        <p><strong>Professor:</strong> Americo</p>
           <p><strong>Aluno:</strong> Nicholas Marques</p>
           <p><strong>Aluno:</strong> Ana Sarah</p>
           <p><strong>Curso:</strong> ADS Unifor</p>
